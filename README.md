@@ -11,7 +11,7 @@ A sensor buoy based on the Particle Tracker reference application.
 
 ## Compile and Flash with VS Code / Particle Workbench extension
 
-1. Clone this repository `$ git clone git@github.com:IQTLabs/tracker-edge.git && cd ./tracker-edge`
+1. Clone this repository `$ git@github.com:IQTLabs/aisonobuoy-particle-tracker.git && cd ./aisonobuoy-particle-tracker`
 2. Init & Update Submodules `$ git submodule update --init --recursive`
 3. Open Particle Workbench
 4. Run the `Particle: Import Project` command, follow the prompts, and wait for the project to load
