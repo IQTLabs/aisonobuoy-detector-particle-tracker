@@ -5,9 +5,7 @@
 
 A sensor buoy based on the Particle Tracker reference application.
 
-## Particle Tracker Reference Application
-
-- [Latest Release](https://github.com/particle-iot/tracker-edge/releases)
+Part of the [AISonobuoy](https://github.com/IQTLabs/AISonobuoy) project.
 
 ## Compile and Flash with VS Code / Particle Workbench extension
 
@@ -20,4 +18,15 @@ A sensor buoy based on the Particle Tracker reference application.
 7. Compile & Flash!
 
 ## Wiring
-TODO
+
+![wiring](media/wiring.png)
+
+## Hardware
+
+![model](https://github.com/IQTLabs/AISonobuoy/blob/main/ParticleTrackerBuoy/media/4in-PVC-Particle-Tracker-Buoy.gif?raw=true)
+
+Hardware details can be found here: [AISonobuoy](https://github.com/IQTLabs/AISonobuoy)
+
+## Particle Tracker Reference Application
+
+- [Latest Release](https://github.com/particle-iot/tracker-edge/releases)
