@@ -1,5 +1,5 @@
 
-# Particle Tracker Edge Firmware
+# Particle Tracker Buoy Firmware
 
 ## About
 
