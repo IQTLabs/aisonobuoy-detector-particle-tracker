@@ -143,7 +143,9 @@ void recvHandler(int _i) {
   if (!error) {
     // Continuously increment, so as not to lose detections if an individual update fails.
     // int will eventually rollover, which the external infrastructure must handle.
-    int new_detected = doc["detected"];
-    detected += new_detected;
+    int new_detected = doc["boats_detected"];
+    detected = new_detected;
+  } else {
+      Serial.println("recvHandler error");
   }
 }
